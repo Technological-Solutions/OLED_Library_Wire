@@ -1,0 +1,22 @@
+{
+    "name": "OLED Library Wire",
+    "version": "1.0.0",
+    "description": "GPT generated OLED plotting Library",
+    "keywords": "Display",
+    "repository": 
+    {
+        "type": "git",
+        "url": "https://github.com/Technological-Solutions/oled_library_wire.git"
+    },
+    "authors":
+    [
+        {
+            "name": "Nikko Deric Aranas",
+            "maintainer": true
+        },
+        {
+            "name": "Ed John Roxas",
+            "maintainer": true
+        }
+    ]
+}
